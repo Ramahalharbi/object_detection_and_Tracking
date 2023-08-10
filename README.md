@@ -1,7 +1,7 @@
 # object detection and Tracking Using Yolo
 
 
-img/objectdetection.gif
+[img/objectdetection.gif](https://gfycat.com/damppartialafghanhound-tensorflow-samsung-darknet-udacity)
 
 ## What is Object Tracking in Computer Vision?
 
