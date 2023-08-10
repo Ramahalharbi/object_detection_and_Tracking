@@ -1,10 +1,11 @@
 # object detection and Tracking Using Yolo
 
-https://gfycat.com/damppartialafghanhound-tensorflow-samsung-darknet-udacity
+[https://gfycat.com/damppartialafghanhound-tensorflow-samsung-darknet-udacity](https://gfycat.com/damppartialafghanhound-tensorflow-samsung-darknet-udacity)
 
 ## What is Object Tracking in Computer Vision?
 
-Object tracking involves an algorithm tracking the movement of a target object, and predicting the position and other relevant information about the objects in the image or video.
+Object tracking involves an al![Uploading image.png…]()
+gorithm tracking the movement of a target object, and predicting the position and other relevant information about the objects in the image or video.
 Object tracking is different from object detection (which many will be familiar with from the YOLO algorithm): whereas object detection is limited to a single frame or image and only works if the object of interest is present in the input image, object tracking is a technique used to predict the position of the target object, by tracking the trajectory of the object whether it is present in the image or video frame or not.
 
 Object tracking algorithms can be categorized into different types based on both the task and the kind of inputs they are trained on. Let’s have a look at the four most common types of object tracking algorithms:
